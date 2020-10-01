@@ -1,7 +1,7 @@
 {
   "auth_token": "AUTHTOKEN",
   "db": {
-    "host": "localhost",
+    "host": "XTREMEGAMER1.aterose.me",
     "user": "modbot",
     "password": "password",
     "database": "modbot",
